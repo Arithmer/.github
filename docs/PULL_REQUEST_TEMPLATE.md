@@ -1,6 +1,6 @@
 ## Scope of PR
-- [ ] *Here comes what the reviewee would like the reviewer to focus on.*
-- [ ] ...
+- *Here comes what the reviewee would like the reviewer to focus on.*
+- ...
 
 ## Major changes in codes/documents
 - *Here comes list of major changes.*
