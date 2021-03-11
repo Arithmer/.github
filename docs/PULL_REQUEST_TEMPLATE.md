@@ -1,11 +1,15 @@
 ## Scope of PR
-...
+- [ ] *Here comes what the reviewee would like the reviewer to focus on.*
+- [ ] ...
 
 ## Major changes in codes/documents
+- *Here comes list of major changes.*
 - ...
 
 ## How to run the code
-...
+*The reviewer might need some specific data that I should prepare for her/him, etc. 
+Add instruction here. ("See `README`" can be OK in some cases)*
+
 
 ## What to be reviewed
 - [ ] Is the code reproducible?
