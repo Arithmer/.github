@@ -27,3 +27,6 @@ Add instruction here. ("See `README`" can be OK in some cases)*
 - [ ] Are the names for variable/method/class appropriate?
   - [ ] variable/method/class name is a short comment. Use meaningful names.
   - [ ] Are the names following [pep8](https://realpython.com/python-pep8/#naming-conventions)?
+
+## Requested deadline for review
+Can you please review this PR by `YYYY/MM/DD` ?
