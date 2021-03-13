@@ -25,7 +25,7 @@ Add instruction here. ("See `README`" can be OK in some cases)*
   - [ ] Is the code comprehensive/clear?
   - [ ] Is the logic correct/as intended?
 - [ ] Are the names for variable/method/class appropriate?
-  - [ ] variable/method/class name is a short comment. Use meaningful names.
+  - [ ] Is variable/method/class name meaningful? (as it is a short comment)
   - [ ] Are the names following [pep8](https://realpython.com/python-pep8/#naming-conventions)?
 - [ ] Is coverage rate high enough? (if there is unittest)
 
@@ -58,7 +58,7 @@ Can you please review this PR by `YYYY/MM/DD` ?
   - [ ] コードは理解可能/明快か?
   - [ ] 実装された論理は正しい/意図された通りか?
 - [ ] 変数/method/classの名前は適切か?
-  - [ ] 変数/method/classの名前は短いコメント文と見なすべき。意味のある名前をつけましょう。
+  - [ ] 変数/method/classの名前は意味があるものになっているか？(これらの名前は短いコメント文としての役割を持つので）
   - [ ] 名前は[pep8](https://realpython.com/python-pep8/#naming-conventions)に従っているか?
 - [ ] coverage rateは十分高いか? (unittestがある場合)
 
