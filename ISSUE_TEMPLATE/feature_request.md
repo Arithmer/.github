@@ -1,7 +1,7 @@
 ---
 name: Feature Request
 about: Feature Request
-title: '[Feature Request] '
+title: '[🌟Feature Request] '
 labels: 'enhancement'
 ---
 

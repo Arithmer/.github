@@ -1,7 +1,7 @@
 ---
 name: Refactoring
 about: Refactoring
-title: '[Refactoring] '
+title: '[♻️Refactoring] '
 labels: 'refactor'
 ---
 
