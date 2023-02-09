@@ -35,12 +35,6 @@ labels: 'bug'
 
 *修正案があればここに書く．*
 
-# Due date
-
-*Specify when this issue will be addressed.*
-
-*いつまでにこのissueに対応するのか，具体的に書く．*
-
 # Tasks
 
 *List tasks if they are broken down.*

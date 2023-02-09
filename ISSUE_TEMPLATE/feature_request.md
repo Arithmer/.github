@@ -23,12 +23,6 @@ labels: 'enhancement'
 
 *どこにどういうコードを記述するのか，具体的に書く．設計がある場合はここに書くか資料へのリンクを貼る．*
 
-# Due date
-
-*Specify when this issue will be addressed.*
-
-*いつまでにこのissueに対応するのか，具体的に書く．*
-
 # Tasks
 
 *List tasks if they are broken down.*
